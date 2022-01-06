@@ -7,12 +7,14 @@
 body{
     width: 100%;
     margin: 0 auto;
+    background-color: #dfeaeb;
 }
+
 /** first section **/
 .first-section{ 
     margin-top: 7%;
    display: flex;
-   margin: 7% 11% 5% 8%;
+   margin: 7% 11% 5% 4%;
 }
 .first-section-div-1{
    width: 50%;
@@ -32,8 +34,7 @@ body{
     margin-top: 2px;
 }
 .first-section-div-1 .mission h2{
-    color: rgb(221 114 51);
-    
+    color: rgb(221 114 51); 
 }
 .first-section-div-2{
     width: 50%;
@@ -53,9 +54,10 @@ body{
     padding: 2% 0%;
     border-radius: 8%;
 }
+
 /** Second section **/
 .second-section{
-    margin-top: 7%; 
+    margin-top: 7%;
 }
 .second-section h2{
     text-align: center;
@@ -73,7 +75,7 @@ body{
     height: 50%;
     float: left;
     background-color: #EDF5F6;
-    margin: 5% -6% 5% 8%;
+    margin: 5% 0% 5% 4%;
     padding: 2%;
     border-radius: 5%;
 }
@@ -105,11 +107,11 @@ body{
 .third-section img{
     width: 84%;
     height: 88%;
-    margin: 15% 3% 3% 26%;
+    margin: 15% 3% 3% -8%;
 }
 .third-section-side-feature{
-    margin-top: 25%;
-    margin-left: 10%;
+    margin-top: 28%;
+    margin-left: -2%;
 }
 .third-section-side-feature h2{
     font-family: Arial, Helvetica, sans-serif;
@@ -140,8 +142,8 @@ body{
     margin-top: 98px;
 }
 .four-section-div-1{
-    width: 50%;
-    margin: 85px 5px 5px -2px;
+    width: 57%;
+    margin: 85px 5px 5px -52px;
 }
 .four-section-div-1 h2{
     font-family: Arial, Helvetica, sans-serif;
@@ -177,8 +179,8 @@ body{
 .five-section-div1{
     -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
     box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
-    margin-left: 43px;
-    width: 570px;
+    margin-left: 53px;
+    width: 550px;
     height: 383px;
 }
 .main-feature{
