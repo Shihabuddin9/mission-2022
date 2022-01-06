@@ -22,7 +22,7 @@ body{
    color: rgb(72 69 66);
 }
 .first-section-div-1 .mission{
-    border-left: 3px solid #FF5959;
+    border-left: 3px ridge rgb(170, 50, 220, .6);
     margin-bottom: 5%;
     font-family: 'Abril Fatface', cursive;
     font-size: 203%;
